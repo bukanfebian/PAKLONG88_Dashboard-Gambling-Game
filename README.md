@@ -13,6 +13,7 @@
     <a href="#id-indonesian">🇮🇩 Bahasa Indonesia</a> | <a href="#en-english">🇬🇧 English</a>
   </p>
 
+<img src="img/Banner_Paklong88.png" alt="PAKLONG88 Banner" width="120" height="auto" />
 </div>
 
 ---
