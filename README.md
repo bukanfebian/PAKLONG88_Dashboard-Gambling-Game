@@ -2,7 +2,7 @@
 
   <img src="img/logo.png" alt="PAKLONG88 Logo" width="120" height="auto" />
   
-  # PAKLONG88 - Modern Gaming Portal Demo
+  # PAKLONG88 - Dashboard Gambling Modern
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Status: Educational](https://img.shields.io/badge/Status-Educational_Purpose_Only-blueviolet)](https://github.com/)
@@ -13,7 +13,7 @@
     <a href="#id-indonesian">🇮🇩 Bahasa Indonesia</a> | <a href="#en-english">🇬🇧 English</a>
   </p>
 
-<img src="img/Banner_Paklong88.png" alt="PAKLONG88 Banner" width="120" height="auto" />
+<img src="img/Banner_Paklong88.png" alt="PAKLONG88 Banner" width="660" height="auto" />
 </div>
 
 ---
